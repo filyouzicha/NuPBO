@@ -1,6 +1,6 @@
 # NuPBO
 
-NuPBO is a local search solver for solving Pseudo-Boolean Optimization (PBO) problems. It is developed based on the LS-PBO solver [2] and shares the same instance format, which is the weighted conjunctive normal form (wecnf).
+NuPBO is a local search solver for solving the Pseudo-Boolean Optimization (PBO) problem. It is developed based on the LS-PBO solver [2] and shares the same instance format, which is the weighted conjunctive normal form (wecnf).
 
 ## Compilation
 
