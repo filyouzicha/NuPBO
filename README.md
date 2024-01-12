@@ -34,6 +34,6 @@ The opb2wecnf_source_code folder contains a program for converting standard OPB 
 ## 
 For more details, please refer to the original paper:
 
-[1] Yi Chu, Shaowei Cai, Chuan Luo, Zhendong Lei, Cong Peng: Towards More Efficient Local Search for Pseudo-Boolean Optimization. CP 2023, To appear.
+[1] Yi Chu, Shaowei Cai, Chuan Luo, Zhendong Lei, Cong Peng: Towards More Efficient Local Search for Pseudo-Boolean Optimization. CP 2023: 12:1-12:18.
 
 [2] Zhendong Lei, Shaowei Cai, Chuan Luo, Holger H. Hoos: Efficient Local Search for Pseudo Boolean Optimization. SAT 2021: 332-348
